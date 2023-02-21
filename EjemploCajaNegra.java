@@ -4,8 +4,17 @@ import java.util.Scanner;
 
 import org.junit.platform.commons.util.StringUtils;
 
+/**
+ * Código de ejemplo de caja negra
+ * 
+ * @author dam108
+ * @version 1.0
+ */
 public class EjemploCajaNegra {
-
+/**
+ * 
+ * @hidden
+ */
 	public static void main(String[] args) {
 		EjemploCajaNegra miPrograma = new EjemploCajaNegra();
 		miPrograma.AmigosDivisores();
